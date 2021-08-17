@@ -1,0 +1,5 @@
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'racer-rust/vim-racer'
+Plugin 'tomlion/vim-solidity'
+Plugin 'leafgarland/typescript-vim'
+Plugin 'fatih/vim-go'
