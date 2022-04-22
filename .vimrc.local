@@ -1,7 +1,18 @@
 set mouse=
 
 "set nospell
-"set nolist
+set nolist "隐藏特殊符号
+# vim启动时启用vim_indent_guides
+let g:indent_guides_enable_on_vim_startup = 1
+# 开始画缩进线的缩进等级
+let g:indent_guides_start_level = 1
+# 缩进线宽度
+let g:indent_guides_guide_size = 1
+
+
+
+
+
 map <Leader>m <C-W>\| <C-W>_
 
 "set nu
